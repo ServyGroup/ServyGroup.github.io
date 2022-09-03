@@ -2,12 +2,15 @@
     "Recepies": [
         {
             "name": "Pizza"
+            "time": "15"
         },
         {
             "name": "Döner"
+            "time": "30"
         },
         {
             "name": "Gulasch"
+            "time": "45"
         }
     ]
 }
