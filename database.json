@@ -1,15 +1,15 @@
 {
     "Recepies": [
         {
-            "name": "Pizza"
+            "name": "Pizza",
             "time": "15"
         },
         {
-            "name": "Döner"
+            "name": "Döner",
             "time": "30"
         },
         {
-            "name": "Gulasch"
+            "name": "Gulasch",
             "time": "45"
         }
     ]
